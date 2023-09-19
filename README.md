@@ -1,14 +1,14 @@
-## track-cli 脚手架
+## cybertrack-cli 脚手架
 
 - 版本 1.0.1
 - 功能: 支持下载模板 `create` 命令
-- 全局命令可使用 `track` 或 `track-cli`
+- 全局命令可使用 `cybertrack` 或 `cybertrack-cli`
 
 ## 使用
 
 目前主要功能为 create 命令，使用方法类似 vue-cli，具体可以参考动图。
 
-![](./images/track-cli.gif)
+![](./images/cybertrack-cli.gif)
 
 ## 采用三方模块
 
